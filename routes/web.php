@@ -19,4 +19,3 @@ Route::get('about-us/', function () {
     return view('about');
 });
 
-Route::view('/contacts','contact');
